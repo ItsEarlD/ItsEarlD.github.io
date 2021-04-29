@@ -1,0 +1,86 @@
+body{
+	background-image: url('bg-homepage.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+div.nav{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	border-bottom: 2px solid #182448;
+	height: 50px;
+}
+
+ul{
+	list-style-type: none;
+	overflow: hidden;
+	margin-left: 60px;
+}
+
+li{
+	font-family: 'Antonio', sans-serif;
+	color: white;
+	font-size: 24px;
+	float: left;
+	padding: 7px 15px;
+}
+
+li:hover{
+	background-color: #343C64;
+	color: white;
+}
+
+
+img{
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 320px;
+	margin-left: 780px;
+	margin-top: 30px;
+}
+
+div.title{
+	margin-top: 300px;
+	text-align: center;
+}
+
+.p1, .p2{
+	margin: 0;
+	padding: 0;
+	line-height: 90px;
+	color: white;
+}
+
+.p1{
+	font-family: 'Kalam', cursive;
+	font-size: 120px;
+	text-shadow: 3px 3px black;
+}
+
+.p2{
+	font-family: 'Lato', sans-serif;
+	font-size: 160px;
+	letter-spacing: 20px;
+	text-shadow: 8px 8px black;
+}
+
+.p3{
+	margin: 0;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+	font-size: 50px;
+	color: white;
+	text-shadow: 3px 3px black;
+	letter-spacing: 7px; 
+}
+
+hr{
+	height: 5px;
+	border-width: 0;
+	background-color: #343C64;
+	color: #343C64;
+	width: 50%;
+}

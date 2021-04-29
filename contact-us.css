@@ -1,0 +1,123 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url('star.jpg');
+	background-repeat:no-repeat;
+	background-size: cover;
+}
+
+div.nav{
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	border-bottom: 2px solid #182448;
+	height: 50px;
+}
+
+ul{
+	list-style-type: none;
+	overflow: hidden;
+	margin-left: 60px;
+}
+
+li{
+	font-family: 'Antonio', sans-serif;
+	color: white;
+	font-size: 24px;
+	float: left;
+	padding: 7px 15px;
+}
+
+li:hover{
+	background-color: #343C64;
+	color: white;
+}
+
+img.logo{
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 200px;
+	margin-left: 1110px;
+	margin-top: 140px;
+}
+
+img.astronaut{
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 520px;
+	margin-left: 420px;
+	margin-top: 150px;
+}
+
+table{
+	color: white;
+}
+
+div.contact{
+	margin-top: 150px;
+	margin-left: 940px;
+	width: 520px;
+	height: 520px;
+	background-color: #845C44;
+}
+
+p.contact-title{
+	position: absolute;
+	font-family: 'Kalam', cursive;
+	font-size: 40px;
+	color: white;
+	text-shadow: 3px 3px black;
+	margin-top: 155px;
+	margin-left: 155px;
+	text-align: center;
+	padding: 0;
+}
+
+p.contact-email{
+	position: absolute;
+	font-family: 'Lato', sans-serif;
+	font-size: 22px;
+	color: white;
+	margin-top: 235px;
+	margin-left: 125px;
+}
+
+p.contact-tnumber{
+	position: absolute;
+	font-family: 'Lato', sans-serif;
+	font-size: 22px;
+	color: white;
+	margin-top: 275px;
+	margin-left: 125px;
+}
+
+p.contact-pnumber{
+	position: absolute;
+	font-family: 'Lato', sans-serif;
+	font-size: 22px;
+	color: white;
+	margin-top: 315px;
+	margin-left: 125px;
+}
+
+p.facebook{
+	position: absolute;
+	font-family: 'Lato', sans-serif;
+	font-size: 22px;
+	color: white;
+	margin-top: 355px;
+	margin-left: 125px;
+}
+
+p.twitter{
+	position: absolute;
+	font-family: 'Lato', sans-serif;
+	font-size: 22px;
+	color: white;
+	margin-top: 395px;
+	margin-left: 125px;
+}
+
